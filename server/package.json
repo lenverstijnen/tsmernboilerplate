@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "ts-node-dev src/app --ignore-watch 'src/**/*.test.ts'"
+  }
+}
